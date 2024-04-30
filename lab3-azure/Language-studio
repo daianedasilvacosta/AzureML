@@ -1,0 +1,21 @@
+- Language-studio-microsoft-azure
+
+Em outra guia do navegador, abra o portal do Azure em https://portal.azure.com , entrando com a conta da Microsoft associada à sua assinatura do Azure.
+
+Clique no botão ＋Criar um recurso e pesquise Serviço de idioma . Selecione criar um plano de serviço de idiomas e será levado a uma página para selecionar recursos adicionais
+Mantenha a seleção padrão e clique em Continuar para criar seu recurso.
+
+Na página Criar Idioma , configure-o com as seguintes configurações:
+Assinatura : sua assinatura do Azure .
+Grupo de recursos : selecione ou crie um grupo de recursos com um nome exclusivo .
+Região : Leste dos EUA.
+Nome : Insira um nome exclusivo .
+Nível de preços : F0 grátis ou S se F0 grátis não estiver disponível
+Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo : Selecionado .
+Selecione Revisar + criar e depois Criar e aguarde a conclusão da implantação.
+
+- Conversão em texto:
+Escolher idioma
+
+![passo2](https://github.com/daianedasilvacosta/AzureML/assets/78669491/84df4779-034a-4365-b348-adb65151606d)
+<br>
