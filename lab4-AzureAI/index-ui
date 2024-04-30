@@ -1,0 +1,30 @@
+Ai-search-microsoft-azure
+
+ #### Realizado como desafio de projeto no Bootcamp Microsoft Azure AI Fundamentals da [Dio.me](https://www.dio.me/).
+
+Passo 1
+- Entre no [Portal do Azure](https://portal.azure.com/?azure-portal=true).
+
+Criar recursos do Azure
+Extrair dados de uma fonte de dados
+Enriqueça os dados com habilidades de IA
+Utilize o indexador do Azure no portal do Azure
+Consulte seu índice de pesquisa
+Revise os resultados salvos em uma Loja de conhecimento
+
+Retorne à página inicial do portal do Azure. Clique no botão ＋Criar um recurso e pesquise os serviços de IA do Azure . Selecione criar um plano de serviços de IA do Azure . Você será levado a uma página para criar um recurso de serviços de IA do Azure. Configure-o com as seguintes configurações:
+Assinatura : sua assinatura do Azure .
+Grupo de recursos : O mesmo grupo de recursos que seu recurso do Azure AI Search .
+Região : o mesmo local do recurso do Azure AI Search .
+Nome : Um nome exclusivo .
+Nível de preços : Padrão S0
+Ao marcar esta caixa, confirmo que li e compreendi todos os termos abaixo : Selecionado
+Selecione Revisar + criar . Depois de ver a resposta Validation Passed , selecione Create .
+
+Aguarde a conclusão da implantação e visualize os detalhes da implantação.
+
+Carregar documentos para o armazenamento do Azure
+No painel do menu esquerdo, selecione Containers .
+
+![passo1](https://github.com/daianedasilvacosta/AzureML/assets/78669491/f3384c6e-9199-4532-9200-b4f763c6dc70)
+
